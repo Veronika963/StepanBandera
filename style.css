@@ -1,0 +1,44 @@
+a {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+
+  .img-left, .img-right {
+    border: 1px solid #c8ccd1;
+    background-color: #f8f9fa;
+    padding: 3px;
+  }
+
+.img-right{
+    float: right; 
+}  
+
+.img-left {
+    float: left;
+}
+
+.quote {
+    background-color: #FFF8DC;
+    padding: 10px;
+}
+
+figcaption {
+    font-size: 13px;
+}
+
+blockquote {
+  font-style: italic;
+}
+
+.quote2 {
+  display: flex;
+  align-items: center;
+}
+
+.arrow {
+  width: 20px;
+  height: 22px;
+}
